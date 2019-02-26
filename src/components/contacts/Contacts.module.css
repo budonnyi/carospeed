@@ -1,0 +1,25 @@
+.dark_bg {
+    background-color: #333231;
+    color: #fff;
+    height: 700px;
+}
+
+.dark_bg h2 {
+    color: #fff;
+}
+
+.section-title h2 {
+    color: #fff;
+}
+
+/*.dark_bg .section-text h4 {*/
+/*color: #dfdfdf;*/
+/*}*/
+
+/*.dark_bg .section-text h4 {*/
+/*color: #dfdfdf;*/
+/*}*/
+
+.dark_bg p {
+    color: #B1B1B1;
+}
